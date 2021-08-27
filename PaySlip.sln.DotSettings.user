@@ -1,0 +1,46 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=032b38c9_002Dcedf_002D43a8_002D9599_002De43a2f4e4449/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaySlipApp_Start_WelcomeMessage #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipApp_Start_WelcomeMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5231bc03_002D6c38_002D4396_002D8b1d_002Dff084dc64d34/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaySlipIP_GetUserInput_Name #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipIP_GetUserInput_Name&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=55a20070_002D9275_002D4dd6_002D8c99_002Dd321beb2af26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaySlipIP_GetUserInput_Name #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipIP_GetUserInput_Name&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=793e8eaf_002D7355_002D484e_002Daa67_002D2035b065e0f2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaySlipTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipApp_Start_WelcomeMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipIO_UserInput_GetName&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9bf3ee76_002Dcf18_002D4085_002D925d_002Db3bcfb2a7af5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaySlipApp_Start_WelcomeMessage #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipApp_Start_WelcomeMessage&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bab14ae9_002De6d9_002D48fa_002D852f_002D0e3057001f83/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaySlipIP_GetUserInput_Name" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipIP_GetUserInput_Name&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c73f254c_002D6838_002D4240_002Da90f_002D9edb93d7bcf4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="PaySlipIO_UserInput_GetName" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipIO_UserInput_GetName&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f3473281_002D2351_002D46f7_002D81be_002D150d99099c3d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="PaySlipApp_Start_WelcomeMessage" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipApp_Start_WelcomeMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::330DEAD3-B25A-4F92-9666-7585BFC3F945::.NETCoreApp,Version=v3.1::PaySlipTest.PaySlipAppTests.PaySlipIP_GetUserInput_Name&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	</wpf:ResourceDictionary>
